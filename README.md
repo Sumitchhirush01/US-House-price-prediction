@@ -1,5 +1,5 @@
 # US-House-price-prediction
-In this repository, I'll prediction house prices in King county, Washington, USA, using Linear Regression . The data used is from the houses in King county, USA between 2014 and 2015.
+In this repository, I'll prediction house prices in King county, Washington, USA, using Linear Regression, Poly Regression,Random forest and Neural Network and compare there r2 score and RMS values. The data used is from the houses in King county, USA between 2014 and 2015.
 Here is a description of the columns in the dataset.
 
 `id` - Unique ID for each home sold.
